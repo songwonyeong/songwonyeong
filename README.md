@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm SongWonYeong 👋</h1>
 
 <h3 align="center">
-  Student developer interested in AI, Data, and research-oriented software
+  AI major student interested in Data, IoT, Multimodal AI, and research-oriented software
 </h3>
 
 <p align="center">
@@ -14,22 +14,108 @@
 
 ## About Me
 
-I am a Smart IT student in Korea.
+I am an AI major student in Korea, currently building my foundation in programming, data analysis, databases, and AI-related research.
 
-I am currently building my foundation in programming, databases, and data-driven problem solving.  
-Rather than presenting myself as an expert in a specific stack, I am focusing on learning steadily and applying what I learn through projects and research-oriented work.
+Rather than presenting myself as an expert in a specific stack, I am focusing on learning steadily and applying what I learn through projects, research activities, and practical experiments.
 
-My current interests are in **AI**, **data analysis**, **databases**, and software development that can be connected to real-world problems.
+My current interests are in **AI**, **data analysis**, **IoT systems**, **multimodal AI**, and software development that can be connected to real-world problems.
+
+---
+
+## Research Interests
+
+- Data analysis and data-driven problem solving
+- Machine learning and AI applications
+- Multimodal AI and vision-language models
+- Deepfake analysis and AI-based media understanding
+- IoT systems and sensor-based data processing
+- BLE-based indoor positioning systems
+- Database systems and backend fundamentals
+- Software systems for safety, monitoring, and decision support
+
+---
+
+## Projects & Research Experience
+
+### BLE Indoor Positioning Data Transmission Strategy
+
+Research topic: **Performance and server-load analysis of data transmission strategies in BLE-based indoor positioning systems**
+
+I studied how different data transmission strategies affect system performance and server load in BLE indoor positioning environments.
+
+Main focus:
+
+- BLE-based indoor positioning
+- RSSI-based location data
+- Continuous, time-based, and event-based data transmission
+- Threshold-based and delta-based event detection
+- Server load, latency, and scalability analysis
+- Simulation-based comparison of transmission strategies
+
+This project helped me understand how sensor data transmission is not only a communication issue, but also a system design problem involving accuracy, efficiency, and scalability.
+
+---
+
+### Multimodal AI / Deepfake Feature Analysis Study
+
+Team activity: **Qwen찮아 딩딩딩**
+
+I participated in a study group focused on deepfake analysis and multimodal AI.
+
+Main focus:
+
+- Understanding deepfake generation methods
+- Studying visual artifacts in manipulated images and videos
+- Learning the structure of vision-language models
+- Exploring Qwen-VL and multimodal AI applications
+- Analyzing facial images and deepfake-related visual features
+
+Through this activity, I became interested in how AI models can analyze visual and textual information together, and how multimodal AI can be applied to media verification and AI ethics.
+
+---
+
+### AR / Unity-based Disaster Evacuation Capstone Project
+
+Project: **Disaster evacuation training and monitoring support system**
+
+I participated in a capstone design project related to disaster evacuation training, monitoring, and result analysis.
+
+Main focus:
+
+- AR / Unity-based training scenario concept
+- Evacuation map upload and visualization
+- Student position monitoring UI
+- Status display for evacuation, restricted areas, and danger zones
+- Training result analysis page
+- Spatial information support for disaster training scenarios
+
+This project helped me think about how software can support safety training, monitoring, and decision-making in realistic environments.
+
+---
+
+### Data Analysis & Machine Learning Practice
+
+I have also worked on small data/AI practice projects while building my foundation.
+
+Topics I have practiced:
+
+- Social media trend analysis and visualization
+- News article sentiment analysis
+- Recommendation system performance experiments
+- Public data analysis and prediction modeling
+
+These projects helped me practice the basic workflow of collecting data, preprocessing it, analyzing patterns, and interpreting results.
 
 ---
 
 ## Current Focus
 
-- Programming fundamentals
-- Python for problem solving and data handling
-- SQL and database basics
+- Python for data analysis and problem solving
+- SQL and database fundamentals
 - Java and backend fundamentals
 - Git/GitHub for project management
+- Machine learning basics
+- Research paper reading and research-oriented development
 - Preparing for research lab and graduate school internship opportunities
 
 ---
@@ -42,6 +128,14 @@ My current interests are in **AI**, **data analysis**, **databases**, and softwa
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-Basic-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### Data & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-Basic-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-Basic-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ### Database
@@ -61,18 +155,23 @@ My current interests are in **AI**, **data analysis**, **databases**, and softwa
 
 ## Previously Touched
 
-These are technologies I have encountered through study or small projects, but I do not present them as my main strengths yet.
+These are technologies or areas I have encountered through study, coursework, or small projects, but I do not present them as my main strengths yet.
 
 - Spring
 - Arduino / IoT basics
 - HTML / CSS basics
+- Unity / AR project experience
+- Qwen-VL / Vision-Language Model study
 
 ---
 
 ## Study Direction
 
-I am interested in connecting software development with data and AI-related research.  
-My goal is to keep improving my technical foundation and gain experience through projects, internships, and research lab opportunities.
+I am interested in connecting software development with data and AI-related research.
+
+My current direction is to strengthen my technical foundation while gaining experience through projects, research activities, and lab internship opportunities.
+
+I am especially interested in projects where data, AI, and software systems are used to solve practical problems.
 
 ---
 
